@@ -1,0 +1,40 @@
+.sixthcontain{
+    margin: 0 auto;
+    max-width: 1000px;
+    padding: 0 15px;
+}
+
+.footer{
+    padding: 30px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 90px;
+}
+
+.pictures{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 5px;
+}
+
+.pictures img{
+    height: 150px;
+    width: 150px;
+}
+
+.vernagir{
+    width: 200px;
+    height: 200px;
+}
+
+.vernagir .h-one{
+    font-size: 20px;
+    color: white;  
+}
+
+.vernagir .h-two{
+    font-size: 15px;
+    color:gainsboro;
+}
+

@@ -1,0 +1,38 @@
+.container{
+    margin: 0 auto;
+    max-width: 1000px;
+    padding: 0 15px;
+}
+
+header{
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+ul {
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 10px;
+    gap: 15px;
+}
+
+ul li{
+    list-style: none;
+}
+
+ul li a{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+}
+
+ul li a:hover{
+    background-color: red;
+}
+
+.imglogo{
+    height: 150px;
+    width: 400px;
+    
+}

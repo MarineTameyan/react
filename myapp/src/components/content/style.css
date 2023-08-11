@@ -1,0 +1,28 @@
+.fifthcontainer{
+    margin: 0 auto;
+    max-width: 1000px;
+    padding: 0 15px;
+}
+
+.headtext{
+    padding: 20px;
+}
+
+.headtext p{
+    font-size: 30px;
+    color: white;
+    text-align: center;
+}
+
+.imgs{
+    padding: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+}
+
+.imgs img{
+    height: 400px;
+    width: 400px;
+}

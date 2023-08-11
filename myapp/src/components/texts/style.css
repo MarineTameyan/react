@@ -1,0 +1,25 @@
+.thirdcontainer{
+    margin: 0 auto;
+    max-width: 1000px;
+    padding: 0 15px;
+}
+
+.texter{
+    padding: 15px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.texter span{
+    font-size: 30px;
+    color: white;
+    text-align: center;
+}
+
+.texter p{
+    padding: 5px;
+    font-size: 15px;
+    color: white;
+    text-align: center;
+}

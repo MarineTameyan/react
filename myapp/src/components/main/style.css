@@ -1,0 +1,25 @@
+.fourthcontain{
+    margin: 0 auto;
+    max-width: 1000px;
+    padding: 0 15px;
+}
+
+.content{
+    padding: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.content img{
+    height: 500px;
+    width: 400px;
+}
+
+.content p{
+     padding: 10px;
+     width: 400px;
+     font-size: 30px;
+     color:white;
+     background-color:cadetblue;
+}
